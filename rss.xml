@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Noticias Bruno</title>
+		<link></link>
+		<description></description>
+		<language>en-us</language>
+		<copyright><![CDATA[ Bruno ]]></copyright>
+		<image>
+			<url></url>
+			<title>Noticias Bruno</title>
+			<link></link>
+		</image>
+		<item>
+			<title>Captan una 'cascada de plasma' en el Sol que puede afectar a la Tierra</title>
+			<link>https://www.20minutos.es/noticia/5119084/0/captan-cascada-plasma-sol-puede-afectar-tierra/</link>
+			<pubDate>Sat, 15 Apr 2023 12:00:00 GMT</pubDate>
+			<author>20minutos</author>
+			<category></category>
+			<description><![CDATA[ 
+			<h1>Captan una 'cascada de plasma' en el Sol que puede afectar a la Tierra</h1>
+			
+			]]></description>
+		</item>
+		<item>
+			<title>Real Madrid 2 - Chelsea 0: resumen, goles y resultado del partido</title>
+			<link>https://as.com/futbol/champions/real-madrid-chelsea-en-directo-ultima-hora-de-la-champions-league-hoy-en-vivo-n/</link>
+			<pubDate>Sat, 15 Apr 2023 12:00:00 GMT</pubDate>
+			<author>As</author>
+			<category></category>
+			<description><![CDATA[ 
+			<h1></h1>
+			
+			]]></description>
+		</item>
+		<item>
+			<title>El SEPE lanza 60.000 puestos de trabajo con sueldos de más de 3.000 euros al mes</title>
+			<link>https://www.20minutos.es/noticia/5118965/0/sepe-lanza-puestos-trabajo-sueldos-mas-euros-mes/</link>
+			<pubDate>Sat, 15 Apr 2023 12:00:00 GMT</pubDate>
+			<author>20minutos</author>
+			<category></category>
+			<description><![CDATA[ 
+			<h1></h1>
+			
+			]]></description>
+		</item>
+        <item>
+			<title>125.000 vehículos circulan en un día por La Laguna y 100.000 por Los Cristianos</title>
+			<link>https://diariodeavisos.elespanol.com/2023/04/vehiculos-la-laguna-los-cristianos/</link>
+			<pubDate>Sat, 15 Apr 2023 12:00:00 GMT</pubDate>
+			<author>Diario de avisos</author>
+			<category></category>
+			<description><![CDATA[ 
+			<h1></h1>
+			
+			]]></description>
+		</item>
+        <item>
+			<title>El cohete Starship de SpaceX, el más potente jamás construido, recibe la aprobación gubernamental para su lanzamiento</title>
+			<link>https://cnnespanol.cnn.com/2023/04/14/cohete-starship-spacex-aprobacion-lanzamiento-trax/</link>
+			<pubDate>Sat, 15 Apr 2023 12:00:00 GMT</pubDate>
+			<author>CNN</author>
+			<category></category>
+			<description><![CDATA[ 
+			<h1></h1>
+			
+			]]></description>
+		</item>
+        <item>
+			<title>De Discord para el mundo: así se filtraron los documentos del Pentágono</title>
+			<link>https://www.nytimes.com/es/2023/04/13/espanol/documentos-filtrados-pentagono.html</link>
+			<pubDate>Sat, 15 Apr 2023 12:00:00 GMT</pubDate>
+			<author>New York Times</author>
+			<category></category>
+			<description><![CDATA[ 
+			<h1></h1>
+			
+			]]></description>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,160 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-image: url(../img/ntc.jpg);
+    background-size: 100%;
+    background-position: center;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  h1 {
+    margin: 0;
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  nav {
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  nav h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: white;
+  }
+  
+  section {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    background-size: 150%;
+  }
+
+  article:first-child {
+    border: 1px solid black;
+    padding: 100px;
+    background-color: grey;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    background-image: url(../img/sol.jpeg);
+    background-size: 100%;
+    background-position: 100px;
+  }
+
+  article:nth-child(2) {
+    border: 1px solid black;
+    padding: 100px;
+    background-color: white;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    border-top-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    background-image: url(../img/mdrid.jpg);
+    background-size: 100%;
+    background-position: top;
+    color: white;
+  }
+
+  article:nth-child(3) {
+    border: 1px solid black;
+    padding: 100px;
+    background-color: grey;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    background-image: url(../img/sepe.jpg);
+    color: white;
+    background-size: 100%;
+  }
+
+  article:nth-child(4) {
+    border: 1px solid black;
+    padding: 100px;
+    background-color: grey;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    border-top-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    background-image: url(../img/sta.jpeg);
+    background-size: 100%;
+  }
+
+  article:nth-child(5) {
+    border: 1px solid black;
+    padding: 100px;
+    background-color: grey;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    background-image: url(../img/star.jpeg);
+    background-size: 100%;
+  }
+
+  article:last-child {
+    border: 1px solid black;
+    padding: 100px;
+    background-color: grey;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    border-top-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    background-image: url(../img/pto.jpg);
+    background-size: 100%;
+  }
+  
+  h2 {
+    margin: 0;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  p {
+    margin: 10px 0;
+    line-height: 1.5;
+  }
+  
+  a {
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  img {
+    width: 50px;
+  }
+
+  article h2 {
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+ 
